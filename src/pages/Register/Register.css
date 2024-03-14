@@ -1,0 +1,13 @@
+body{
+    background: white;
+}
+
+body main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body main #registerForm{
+    min-width: 500px;
+}
